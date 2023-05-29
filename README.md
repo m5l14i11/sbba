@@ -1,3 +1,3 @@
-# Out of band
+# SBBA
 
 Smart Bug Bounty Agent
